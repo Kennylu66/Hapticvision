@@ -1,2 +1,2 @@
 # Hapticvision
-Object detection with voice feedbakc
+Object detection with voice feedback
